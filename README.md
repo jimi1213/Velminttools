@@ -26,6 +26,8 @@
 |-----------|
 | ![UI 1](/dashboard.PNG) |
 
+![Dashboard](https://raw.githubusercontent.com/jimi1213/Velminttools/main/dashboard.PNG)
+
 ---
 
 ## 💻 Installation (macOS Only)

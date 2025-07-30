@@ -1,6 +1,6 @@
 # 🚀 VelmintTools – Advanced AI Bot for Pump.fun & Token Automation
 
-![VelmintTools Banner](./screenshot.png)
+![VelmintTools Banner](/IMG_1889.jpeg)
 
 **VelmintTools** is a powerful AI-powered automation tool designed for developers and degens launching tokens on platforms like **Pump.fun** and more.
 

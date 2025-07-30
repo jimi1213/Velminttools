@@ -22,9 +22,9 @@
 
 ## 📸 Screenshots
 
-| Dashboard | Automation Settings |
+| Dashboard | 
 |-----------|---------------------|
-| ![UI 1](./screenshots/dashboard.png) | ![UI 2](./screenshots/settings.png) |
+| ![UI 1](./dashboard.png) | ! |
 
 ---
 
@@ -32,7 +32,7 @@
 
 > Requires macOS 12+ and internet connection.
 
-1. [Download VelmintTools](https://your-download-link.com)  
+1. [Download VelmintTools]([https://your-download-link.com](https://velmint.com/downloads/VelmintTools_ai_1.0.0.pkg)  
 2. Open the `.dmg` file and drag VelmintTools to your Applications folder  
 3. Launch the app and log in with your credentials
 
@@ -63,9 +63,8 @@ VelmintTools runs locally and never stores your private keys. We use end-to-end 
 
 ## 📢 Contact & Support
 
-- Website: [velmint.io](https://velmint.io)  
-- Telegram: [@VelmintSupport](https://t.me/VelmintSupport)  
-- Twitter/X: [@VelmintTools](https://twitter.com/VelmintTools)
+- Website: [velmint.com](https://velmint.com)   
+- Twitter/X: [@Velmint_](https://twitter.com/velmint_)
 
 ---
 

@@ -32,7 +32,7 @@
 
 > Requires macOS 12+ and internet connection.
 
-1. [Download VelmintTools]([https://your-download-link.com](https://velmint.com/downloads/VelmintTools_ai_1.0.0.pkg)  
+1. [Download VelmintTools] (https://velmint.com/downloads/VelmintTools_ai_1.0.0.pkg)  
 2. Open the `.dmg` file and drag VelmintTools to your Applications folder  
 3. Launch the app and log in with your credentials
 

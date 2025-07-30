@@ -20,11 +20,11 @@
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-| Dashboard | 
-|-----------|---------------------|
-| ![UI 1](./dashboard.PNG) | ! |
+| Dashboard |
+|-----------|
+| ![UI 1](./dashboard.PNG) |
 
 ---
 

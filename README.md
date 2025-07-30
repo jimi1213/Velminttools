@@ -22,7 +22,7 @@
 
 ## 📸 Screenshots
 
-![Dashboard](dashboard.PNG)
+![Dashboard](IMG_1880.png)
 
 ---
 

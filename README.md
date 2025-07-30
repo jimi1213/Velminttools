@@ -24,7 +24,7 @@
 
 | Dashboard | 
 |-----------|---------------------|
-| ![UI 1](./dashboard.png) | ! |
+| ![UI 1](./dashboard.PNG) | ! |
 
 ---
 
